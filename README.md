@@ -1,2 +1,3 @@
-# .github
-README of WATLAS teams GitHub
+# WATLAS team GitHub
+
+Collection of all repositories linked to WATLAS.
